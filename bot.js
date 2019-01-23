@@ -1781,4 +1781,4 @@ message.channel.sendMessage('**الرجاء الانتظار ريث ما يتم 
 
 
 
-client.login("NTI3NDQxNzc5ODU1NzIwNDk4.DypWMA.JT7_B0oPUXI1y1Q43xfwqn4t_WE");
+client.login("NTI3NDQxNzc5ODU1NzIwNDk4.DypX9g.PH4g1NL4bBHfM8129MFIotDNXBE");
